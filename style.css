@@ -1,0 +1,30 @@
+html {
+  font-family: sans-serif;
+}
+
+body {
+  background-image: url('https://s14-eu5.startpage.com/cgi-bin/serveimage?url=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1465636%2Fscreenshots%2F9174984%2F059.png&sp=ad95d688b309082ec3e1cba6fb536687&anticache=690119');
+}
+
+main {
+  margin: 0 auto;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 300px;
+  text-align: center;
+}
+
+.lastResult {
+  color: white;
+  padding: 3px;
+}
+
+.guessSubmit {
+  background-color: #fc6b82;
+  margin-top: 16px;
+  padding: 2px 10px;
+  text-transform: uppercase;
+}
+
